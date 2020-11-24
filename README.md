@@ -1,2 +1,3 @@
 # Covid-19-Presentation
-A school presentation regarding the application of using a variety of different models in analyzing and predicting the trend of covid19
+* Analyze the upcoming trends using different kind of regression models including linear and non-linear regression
+* Calculate their R square to see which model gives the best prediction
